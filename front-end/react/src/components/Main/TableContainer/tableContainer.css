@@ -1,0 +1,6 @@
+.tableContainer-component {
+    width: 77%;
+    height: 100%;
+    padding: 2em;
+    display: flex;
+}

@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class FlowerService {
 
-  private url: string = "http://localhost/proyectos/flores-php/back-end/api/flowers";
+  private url: string = "http://localhost/flores/back-end/api/flowers";
 
   constructor( private http: HttpClient ) { }
 
